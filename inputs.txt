@@ -1,0 +1,4 @@
+isready
+ucinewgame
+position startpos
+go infinite
